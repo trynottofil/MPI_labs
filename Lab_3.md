@@ -6,7 +6,7 @@
 Код(для VS19):
 
 
-//
+
 #include "mpi.h"
 #include <iostream>
 #include <stdio.h>
@@ -65,7 +65,7 @@ void star(int argc, char* argv[])
 
 	MPI_Finalize();
 }
-//
+
   
   
  Результат:
